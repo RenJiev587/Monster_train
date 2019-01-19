@@ -1,0 +1,21 @@
+1.disjuction ¡Å what about p¡Åq
+Truth table 
+   talbe 
+   figure
+   state swift figure 
+   strength:
+     to proof
+     use machine to justify the propositions
+ 
+2.Exclusive or ¨’ what about p¨’q
+The definition :p¨’q
+  let the p and q is prospostions,only the state of p is not equal to q ,the p exclusive or q is true,
+  denoted by the p¨’q.
+  the exclusive or of p and q,denoted by the p¨’q£¬when it ture iif p and q unequal.
+
+3.Conditional statement ¡ú
+  it is false when p is true and q is false,and true otherwise.
+
+4.Create the new equation
+  
+5.Logic puzzle
